@@ -1,3 +1,5 @@
+--this script was not made by me i got the source from someone else--
+
 local fakecash = Instance.new("Part")
 local shit = require(game.ReplicatedStorage.MainModule).AddComma
 local Plr = game.Players.LocalPlayer
